@@ -61,7 +61,6 @@ namespace arrays
             s = s1;
             s1 = temp;
             Console.WriteLine(s +" "+ s1);
-
         }
 
         static void Main(string[] args)
